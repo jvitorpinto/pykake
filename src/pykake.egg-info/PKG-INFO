@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: pykake
+Version: 0.0.1
+Summary: A small example package
+Home-page: #
+Author: João Vitor de Nóvoa Pinto
+Author-email: jvitorpinto@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, #
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# pykake
+
+A minimal functional package to be used as a model for other python packages.
+
